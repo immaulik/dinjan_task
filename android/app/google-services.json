@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "858533477400",
+    "project_id": "dinjan-task",
+    "storage_bucket": "dinjan-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858533477400:android:be7969858fd06057b4576d",
+        "android_client_info": {
+          "package_name": "com.dinjan_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858533477400-1hgl2jc7sj9atdspb2cer9oc5ss7qs6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dinjan_task",
+            "certificate_hash": "ae30fc427fd4b5eb91e3c4aa0730a883f17fe3bb"
+          }
+        },
+        {
+          "client_id": "858533477400-sek9pdr3qa28u8u334h501lcs2n1g6do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9CQjjKizT_G_2m4OyodVPRC0k1OXq-ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858533477400-sek9pdr3qa28u8u334h501lcs2n1g6do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
